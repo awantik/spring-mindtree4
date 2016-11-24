@@ -1,0 +1,24 @@
+1. Spring DI
+2. Spring MVC - Static Resources, Rendering templates, Images, Form Upload
+3. Spring AOP - Custom Annotation
+4. Spring MVC - File Upload/ Download
+5. Accessing Twitter feeds
+6. Spring Security
+7. Spring JUnit,  Logging
+8. Spring Validation
+9. Spring REST, Interceptor
+10. Spring WebSocket
+11. Spring Hibernate-DAO-JDBC Integration
+12. Spring Boot
+13. Spring Schedular, Batch
+14. Spring Transaction & Hibernate Transaction
+
+## Content management System
+1. Anybody can read blogs
+2. Only admin can upload blogs
+3. Each blog will contain comment section
+4. Comment needs no authorization
+5. Each blog can have images & other media like videos etc.
+6. Storange in Database.
+7. Write Test cases using JUnit
+8. For Bonus Point: Show live tweets on each topic next to it. Save those tweets in db. Make it explicit that you have added bonus point code
